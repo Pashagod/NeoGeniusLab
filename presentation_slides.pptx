@@ -1,0 +1,1 @@
+print(f"Shape {i}: {type(shape).__name__}, Area: {shape.area():.2f}")
